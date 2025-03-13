@@ -18,7 +18,7 @@ Customer retention is more cost-effective than acquiring new users. High churn r
 
 ##  Data Understanding  
 
-### 🔹 Dataset Overview  
+###  Dataset Overview  
 The dataset consists of 3,333 customer records with 21 attributes, including:
 
 - Demographics: State, area code  
@@ -28,7 +28,7 @@ The dataset consists of 3,333 customer records with 21 attributes, including:
 
 ---
 
-## 🛠 Data Preprocessing & Feature Engineering  
+##  Data Preprocessing & Feature Engineering  
 
 - Missing Values: No missing values found.  
 - Feature Selection: Dropped irrelevant columns (e.g., phone number).  
