@@ -1,13 +1,13 @@
 # Customer Churn Prediction - SyriaTel
 
-## 📌 Project Overview  
+##  Project Overview  
 Customer churn is a major challenge in the telecom industry, leading to revenue loss and high acquisition costs. This project leverages machine learning to predict customer churn for SyriaTel, enabling proactive retention strategies.
 
 ---
 
-## 📊 Business Understanding  
+##  Business Understanding  
 
-### 🔍 Problem Statement  
+### Problem Statement  
 Customer retention is more cost-effective than acquiring new users. High churn rates impact revenue, making it essential to:  
 
 - Predict churn (Yes/No) using machine learning.  
@@ -16,7 +16,7 @@ Customer retention is more cost-effective than acquiring new users. High churn r
 
 ---
 
-## 📂 Data Understanding  
+##  Data Understanding  
 
 ### 🔹 Dataset Overview  
 The dataset consists of 3,333 customer records with 21 attributes, including:
@@ -38,7 +38,7 @@ The dataset consists of 3,333 customer records with 21 attributes, including:
 
 ---
 
-## 📈 Exploratory Data Analysis (EDA)  
+##  Exploratory Data Analysis (EDA)  
 
 ### Key Findings:  
 - Customers with more than 4 customer service calls are highly likely to churn.  
@@ -47,9 +47,9 @@ The dataset consists of 3,333 customer records with 21 attributes, including:
 
 ---
 
-## 🤖 Machine Learning Models & Performance  
+##  Machine Learning Models & Performance  
 
-### 🏆 Models Implemented  
+###  Models Implemented  
 - Logistic Regression (Baseline)  
 - Decision Tree Classifier  
 - Random Forest Classifier  
@@ -73,11 +73,11 @@ The dataset consists of 3,333 customer records with 21 attributes, including:
 | KNN                  | 85.3%   | 10.2%    |
 | Naive Bayes          | 57.8%   | 27.8%    |
 
-📌 The Tuned Decision Tree model performed the best, balancing **accuracy* and *interpretability.  
+ The Tuned Decision Tree model performed the best, balancing **accuracy* and *interpretability.  
 
 ---
 
-## 📢 Business Recommendations  
+##  Business Recommendations  
 
 - Enhance Customer Support: Reduce churn by improving service quality for customers making frequent support calls.  
 - Reevaluate International Plans: Modify pricing and features to increase customer satisfaction.  
@@ -88,7 +88,7 @@ The dataset consists of 3,333 customer records with 21 attributes, including:
 
 ---
 
-## 🎯 Conclusion  
+##  Conclusion  
 By leveraging machine learning, this project successfully:  
 
 ✔ Identified key churn factors  
@@ -99,8 +99,8 @@ Implementing these recommendations will help SyriaTel improve customer retention
 
 ---
 
-## 📌 Developed by: christine nzili kindena  
-📅 Date: March 2025  
-💡 Technologies Used: Python, Pandas, Scikit-Learn, Matplotlib, Seaborn, Machine Learning  
+##  Developed by: christine nzili kindena  
+ Date: March 2025  
+ Technologies Used: Python, Pandas, Scikit-Learn, Matplotlib, Seaborn, Machine Learning  
 
 ---
